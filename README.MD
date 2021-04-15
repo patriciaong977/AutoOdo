@@ -2,6 +2,7 @@
 ###### Contributors: Mickey Springston, Kingsley Tran, Patricia Ong
 ###### Semester Project at California State University, Fullerton for CPSC 362 - Foundations of Software Engineering
 
+### Note: The latest version of the project is in the Main Branch. 
 ---
 ## Project 
 Auto Odo is a mobile application that aims to allow the user to easily be informed of the total amount of distance they have trav leed for work during a particular day, week or month. The distance will be given in either miles or kilometers depending on the user's preference. 
