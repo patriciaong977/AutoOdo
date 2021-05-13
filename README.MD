@@ -25,7 +25,8 @@ Below is a few screenshots of what the User Interface of the app will look like.
 
 ![TWM](https://user-images.githubusercontent.com/23037963/117372761-e8379080-ae7e-11eb-9a4d-6d6d3b94f630.png)
 
-![Records](https://user-images.githubusercontent.com/23037963/117372755-e5d53680-ae7e-11eb-834e-8d99b3a078e2.png)
+![TCR](https://user-images.githubusercontent.com/23037963/118173208-20405580-b3e2-11eb-882c-119885cea4e8.png)
+
 
 ---
 ### Inside the Database
