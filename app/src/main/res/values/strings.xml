@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Project Auto Odo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Return</string>
+    <string name="track_working_miles">Track Work Miles</string>
+    <string name="third_fragment_label">fragment_third</string>
+    <string name="google_map_integration">Google Map Integration</string>
+    <string name="enter_work_hours">(Enter Work Hours)</string>
+    <string name="userInput">TextView</string>
+    <string name="submit">SUBMIT</string>
+    <string name="input_work_miles_for_day_selected">Input work miles for day selected</string>
+    <string name="input_the_work_miles_for_selected_date">Input the work miles for selected date.</string>
+    <string name="view_all">View All</string>
+    <string name="delete">Delete</string>
+</resources>
