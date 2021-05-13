@@ -21,6 +21,8 @@ It allows users to view all their inputs, as well as delete them if the user nee
 ---
 ### Visualization (User Interface)
 Below is a few screenshots of what the User Interface of the app will look like.
+
+
 ![Main Screen](https://user-images.githubusercontent.com/23037963/117372744-e1a91900-ae7e-11eb-98f2-e7b842eba7b3.png)
 
 ![TWM](https://user-images.githubusercontent.com/23037963/117372761-e8379080-ae7e-11eb-9a4d-6d6d3b94f630.png)
